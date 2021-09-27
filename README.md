@@ -1,2 +1,1 @@
-# astrology-app
-Astrology app 
+
