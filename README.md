@@ -6,6 +6,7 @@ This repository contains the code for the **Backend setup** of the India Today A
 ### Relevant Links
 
 - [Problem Statement](https://docs.google.com/document/d/10dP7KHRoT3K97t1dliecDtlj9Q5-xR8E0gCxUUopWac/edit)
+- [Submission Video](https://drive.google.com/file/d/1pKYcKIQew_ASjcFoaUwvGsk0m9WeQ3Lr/view?usp=sharing)
 
 ## Table Of Content
 - [Development Environment](#development-environment)
@@ -114,18 +115,4 @@ Defined in `indiaToday/astroApp/urls.py` and methods defined in `indiaToday/astr
 
 Sample images of use case goes here.
 
-![](assets\admin.png)
-
-![](assets/astro_data)
-
-![](assets/banneroffers_data)
-
-![](assets/home)
-
-![](assets/horoscopes_data)
-
-![](assets/questions_data)
-
-![](assets/reports_data)
-
-![](assets/testimonials_data)
+![](assets/1.png) ![](assets/2.png) ![](assets/3.png) ![](assets/4.png) ![](assets/5.png) ![](assets/6.png) ![](assets/7.png) ![](assets/8.png)
