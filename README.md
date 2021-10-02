@@ -3,6 +3,8 @@
 
 This repository contains the code for the **Backend setup** of the India Today Astrology app as a part of their recruitment process for internship.
 
+Please find the code migrated to Node.js in the [Node Code](https://github.com/pranjaldube/astrology-app/tree/main/Node%20code) folder.
+
 ### Relevant Links
 
 - [Problem Statement](https://docs.google.com/document/d/10dP7KHRoT3K97t1dliecDtlj9Q5-xR8E0gCxUUopWac/edit)
